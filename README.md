@@ -19,9 +19,9 @@ You have three ways to work with the Python notebooks, depending on your technic
 
 ### 📚 Course Structure
 The repository is organized following our course modules:
-* **Module 1:** Foundations & Point Estimation
-* **Module 2:** Statistical Inference (Hypothesis Testing)
-* **Module 3:** Advanced Modeling (Regression & ANOVA)
+* **Module 1:** Foundations & Point Estimation [Triola Caps. 1, 2, 3]
+* **Module 2:** Statistical Inference (Hypothesis Testing) [Triola Caps. 6, 7]
+* **Module 3:** Advanced Modeling (Regression & ANOVA) [Triola Caps. 8, 9, 10, 12]
 
 ---
 **Professor:** Santiago Fernández  
