@@ -26,3 +26,6 @@ The repository is organized following our course modules:
 ---
 **Professor:** Santiago Fernández  
 **Textbook:** *Python Data Science Handbook* (Jake VanderPlas) & *Elementary Statistics* (Mario Triola).
+
+---
+*Last update: febrero 2026*
